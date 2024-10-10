@@ -1,16 +1,20 @@
 # Odyssey
 
 ## Git commands
+```bash
 git branch 
-  main
-
-git switch mushahid   {write your branch name like this}
-  Switched to a new branch 'mushahid'
-  
-git branch
+*main
+```
+```bash
+git switch mushahid
+Switched to a new branch 'mushahid'
+```
+```bash
   main
 * mushahid
+```
 
 ## other commands
 npm run dev
 npm run format
+
