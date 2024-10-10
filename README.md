@@ -16,6 +16,6 @@ git branch
 ```
 
 ## other commands
-*npm run dev
-*npm run format
+- npm run dev
+- npm run format
 
