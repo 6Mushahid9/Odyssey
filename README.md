@@ -10,6 +10,7 @@ git switch mushahid
 Switched to a new branch 'mushahid'
 ```
 ```bash
+git branch
   main
 * mushahid
 ```
